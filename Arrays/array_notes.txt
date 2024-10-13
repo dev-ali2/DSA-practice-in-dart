@@ -1,0 +1,2 @@
+Arrays are static in nature
+Arrays can not be sorted in O(n)
